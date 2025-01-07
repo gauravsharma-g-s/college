@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">College</string>
+    <!-- College Name -->
+    <string name="college_name1">School of Computer Science\nand Engineering</string>
+    <string name="college_name2">Government College Dharamshala</string>
+    <string name="about">About</string>
+    <string name="teachers">Teachers</string>
+    <string name="notice">NoticeBoard</string>
+    <string name="principal">Principal\'s Desk</string>
+    <string name="gallery">Gallery</string>
+    <string name="principal_message">
+        The Foundation-Stone of the Old Main Block was laid on 4th May, 1912, by the then Punjab Governor Sir Laois Done. Brig Sherjung Thapa,
+        Hero of Skardu(1948), the first awarded Mahavir Chakra, was student in the College in 1926. It was the initiative of the then Principal
+        Shri Gomti Prasad that subject Geology started at this college even before the department began functioning in Punjab University Chandigarh.
+    </string>
+    <string name="principal_name">Dr. Rajesh Sharma (Principal)</string>
+    <!-- Welcome Note -->
+    <string name="welcome_note">Welcome to </string>
+    <string name="welcome_note_2">School of Computer Science and Engineering</string>
+    <string name="college_logo">College Logo</string>
+    <!-- Hyperlink for main college site-->
+    <string name="collegeSiteLink"><a href="https://gcdharamshala.in/">gcdharamshala.org</a></string>
+
+    <!-- Different Labels Text -->
+    <string name="notice_view">Notice Board</string>
+    <string name="teacher_view">Teachers</string>
+    <string name="gallery_view">College Gallery</string>
+    <!-- Developer info Note-->
+    <string name="my_info">Designed and powered by Gaurav Sharma</string>
+
+
+
+</resources>

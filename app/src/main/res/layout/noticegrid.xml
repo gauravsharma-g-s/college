@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="150dp"
+    android:layout_height="160dp"
+    android:layout_margin="8dp"
+    android:backgroundTint="@color/teal_700"
+    android:padding="4dp">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:src="@drawable/notice_pin" />
+        <TextView
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:id="@+id/noticeDate"
+            android:padding="4dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:padding="4dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            android:id="@+id/noticeName"
+            android:layout_width="wrap_content"
+            android:layout_height="80dp"/>
+        <TextView
+            android:id="@+id/download"
+            android:layout_width="134dp"
+            android:layout_height="wrap_content"
+           android:textAlignment="center"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp"
+            android:textStyle="bold"
+            android:background="@color/gray"
+            android:textColor="@color/black"
+            android:text="Download"/>
+    </LinearLayout>
+
+
+
+</androidx.cardview.widget.CardView>
